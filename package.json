@@ -1,0 +1,15 @@
+{
+    "name": "vanilla-tsx",
+    "version": "0.1.3",
+    "description": "tsx support to generate vanilla document.createElement code.",
+    "type": "module",
+    "homepage": "https://github.com/hillin/vanilla-tsx",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hillin/vanilla-tsx"
+    },
+    "scripts": {
+        "build": "tsc -p ."
+    }
+}

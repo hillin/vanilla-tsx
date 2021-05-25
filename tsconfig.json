@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es6",
+    "module": "es6",
+    "lib": [
+      "es2016",
+      "dom"
+    ],
+    "strict": true,
+    "alwaysStrict": true,
+    "preserveConstEnums": true,
+    "moduleResolution": "Node",
+    "declaration": true
+  },
+  "include": [
+    "index.ts"
+  ],
+  "exclude": [
+    "bin",
+    "obj"
+  ]
+}
